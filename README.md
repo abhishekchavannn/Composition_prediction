@@ -11,7 +11,7 @@ These are dimensionless number, that represent normalized energy parameters whic
 * eta2 - second neighbor cluster
 * eta3 - third neighbor cluster
 * eta4 - fourth neighbor cluster
-* 
+
 <hr>
 <h3> What are the other contents in the dataset? </h3>
 
