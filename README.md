@@ -6,10 +6,12 @@ Applied two supervised algorithms, Linear regression and K-Nearest Neighbors to 
 <hr>
 <h3> What does eta values mean? </h3>
 These are dimensionless number, that represent normalized energy parameters which corresponds to:
+
 * eta1 - first neighbor cluster
 * eta2 - second neighbor cluster
 * eta3 - third neighbor cluster
 * eta4 - fourth neighbor cluster
+* 
 <hr>
 <h3> What are the other contents in the dataset? </h3>
 
