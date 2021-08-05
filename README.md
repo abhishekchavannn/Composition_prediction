@@ -26,8 +26,8 @@ Here
 <h2> Results </h2>
 
 * Accuracy of linear model on training dataset : 49.709004178502795 % 
-* Accuracy of linear model on training dataset : 51.05961513782863 % 
+* Accuracy of linear model on testing dataset : 51.05961513782863 % 
 * Accuracy of K-Nearest Neighbor model on training dataset : 59.11328125000001 % 
-* Accuracy of K-Nearest Neighbor model on training dataset : 51.05961513782863 % 
+* Accuracy of K-Nearest Neighbor model on testing dataset : 51.05961513782863 % 
 
 Using the efficient model, preferbly the KNN model can be used to predict the composition values at different eta values.
